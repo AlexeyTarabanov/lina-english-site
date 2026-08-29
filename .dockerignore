@@ -1,0 +1,15 @@
+.git
+.idea
+node_modules
+dist
+build
+coverage
+.DS_Store
+*.iml
+*.log
+npm-debug.log*
+*.tsbuildinfo
+.env
+.env.*
+Dockerfile
+docker-compose.yml
