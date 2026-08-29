@@ -1,9 +1,22 @@
-node_modules
-dist
-.idea
+node_modules/
+dist/
+.idea/
 *.iml
 .DS_Store
 npm-debug.log*
 *.tsbuildinfo
 .env
 .env.*
+
+# Local caches and temporary files
+.cache/
+.vite/
+tmp/
+temp/
+*.tmp
+
+# Platform-specific artifacts not needed for this static site
+.openai/
+.vinext/
+.wrangler/
+.cloudflare/
