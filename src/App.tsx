@@ -69,7 +69,7 @@ export default function App() {
         </div>
         <div className="photo">
           <img
-            src="/lina.jpeg"
+            src="./lina.jpeg"
             alt="Лина, преподаватель английского языка"
           />
           <aside>
